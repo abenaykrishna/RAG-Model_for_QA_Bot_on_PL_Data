@@ -52,5 +52,10 @@ Modify embedding/LLM models in the script as needed.
 - Performance depends on document quality
 - Best suited for structured financial documents
 
-## License
-MIT License
+Example usage: 
+![Screenshot 2025-01-23 193231](https://github.com/user-attachments/assets/d52e96ab-3576-46af-996b-7317e0be7692)
+![Screenshot 2025-01-23 193056](https://github.com/user-attachments/assets/0ef7a2f9-0c47-4add-8733-f6f019dd36a1)
+![Screenshot 2025-01-23 193147](https://github.com/user-attachments/assets/04118ef8-8e76-4761-a582-3aa7676b8986)
+![Screenshot 2025-01-23 193218](https://github.com/user-attachments/assets/2faf43b5-503d-4d99-baf9-46c5267c0d3e)
+
+
